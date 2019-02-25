@@ -20,7 +20,7 @@ public abstract class GumballMachine {
                 this.valueOfCoins += coinValue;
             }
             else {
-                System.out.println("Please insert the valid coins...Ejecting the coin\n");
+                System.out.println("Please insert valid coins...Ejecting the coin\n");
             }
         }
         else {
